@@ -28,5 +28,5 @@ npm start
 
 <div style="background-image: url('./src/assets/img/cubes.png'); display: block; margin: 0 auto;">
     <img src="./src/assets/img/img2.png">
-    <img src="./src/assets/img/gif2.gif" style="display:block; margin: 0 auto;">
+    <img src="./src/assets/img/gif2.gif" style="display:block; margin-left: auto; margin-right: auto">
 </div>
