@@ -22,6 +22,8 @@ npm run build
 npm start
 ```
 
+## Probar Proyecto: https://ospinajuan2000.github.io/todo-list/
+
 ## Funcionalidad.
 
 ### Puedes insertar tareas, eliminar tareas, mostrar las pendientes, mostrar y/o mostrar las terminadas. Aplicación construida usando Local Storage.
